@@ -1,0 +1,18 @@
+{
+    "context": "client",
+    "identifier": "com.pa.ferretmaster.ferret-visuals",
+    "display_name": "Ferret's better Biome visuals",
+    "description": "Attempts to shift pa's look closer to the original trailer by making it more colourful and contrasty.",
+    "author": "ferretmaster",
+    "signature": " ",
+    "forum": "",
+    "icon": "http://i.imgur.com/fosb58G.png?1",
+    "category": [
+        "titans",
+        "classic",
+        "effects"
+    ],
+    "version": "1.0.2",
+    "build": "116982",
+    "date": "2023/12/23"
+}
